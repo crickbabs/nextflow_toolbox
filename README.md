@@ -36,4 +36,6 @@ You can run the pipeline using the following command. By default itis configured
 
 ### Data
 
-The test data provided was obtained from GEO submission 
+The test data provided was obtained from GEO submission
+
+[dag]: nextflow_toolbox_dag.png 
