@@ -20,7 +20,7 @@ This Nextflow pipeline contains code to carry out the following steps:
 
 ### The Pipeline Flow
 
-![alt flow's directed acyclic graph][nextflow_toolbox_dag]
+![alt flow's directed acyclic graph][dag]
 
 ### Description
 
