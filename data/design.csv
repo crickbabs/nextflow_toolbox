@@ -1,0 +1,7 @@
+sampleid,fastqfile,treatment
+control1,sample1.fastq.gz,control
+control2,sample2.fastq.gz,control
+control3,sample3.fastq.gz,control
+treatment1,sample4.fastq.gz,treated
+treatment2,sample5.fastq.gz,treated
+treatment3,sample6.fastq.gz,treated
